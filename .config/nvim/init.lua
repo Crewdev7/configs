@@ -1,0 +1,6 @@
+require "core.options"
+require "core.basic_keymaps"
+require "lazy-setup"
+require "core.autocommands"
+require "after.keymaps"
+require "after.diagnostic"
